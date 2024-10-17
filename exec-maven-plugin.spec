@@ -9,7 +9,7 @@ Summary:        Exec Maven Plugin
 # with no license specified. The project contains MIT license text,
 # but there is no file which uses such a license.
 License:        ASL 2.0 and MIT
-URL:            http://mojo.codehaus.org/exec-maven-plugin
+URL:            https://mojo.codehaus.org/exec-maven-plugin
 Source0:        http://repo1.maven.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1-source-release.zip
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt
 BuildArch:      noarch
